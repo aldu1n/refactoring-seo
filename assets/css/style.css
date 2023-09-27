@@ -15,6 +15,11 @@ body {
     color: #ffffff;
 }
 
+  /* adds black shadows around the boxes when you hover over it */
+.header:hover {
+    box-shadow: 0 0 15px black;
+}
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -84,6 +89,11 @@ p {
     color: #ffffff; 
 }
 
+ /* adds black shadows around the boxes when you hover over it */
+.content:hover {
+    box-shadow: 0 0 15px black;
+}
+
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -103,6 +113,10 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+}
+
+#benefits-section:hover {
+    box-shadow: 0 0 15px black;
 }
 
 .benefits {
