@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-Open index.html in any browser, or follow this Git Pages link: [Horiseon - Social Solution Services](https://aldu1n.github.io/refactoring-seo/).
+Open 'index.html' in any browser, or follow this Git Pages link: [Horiseon - Social Solution Services](https://aldu1n.github.io/refactoring-seo/).
 
 ## Credits
 
